@@ -7,7 +7,6 @@ Google Colab links to notebooks:
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Assignment_pandas.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/FunctionalProgramming.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/ImportanceOfData.ipynb,
-https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/IntroToPandasPart2.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Pandas_Linear_Regression.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_1_Assignments_Solutions.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_1_IntroPython_2026_2027.ipynb,
