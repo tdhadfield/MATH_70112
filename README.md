@@ -5,8 +5,6 @@ Google Colab links to notebooks:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Assignment_Data.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Assignment_pandas.ipynb,
-https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/FunctionalProgramming.ipynb,
-https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/ImportanceOfData.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Pandas_Linear_Regression.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_1_Assignments_Solutions.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_1_IntroPython_2026_2027.ipynb,
@@ -15,7 +13,9 @@ https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_2_FinComp_LinearAlgebra.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_2_Financial_Computing.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_2_Simulation.ipynb,
-https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_5_IntroToPandas.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_FunctionalProgramming.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_ImportanceOfData.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_IntroToPandas.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_5_IntroToPandasPart2.ipynb
 )
 
