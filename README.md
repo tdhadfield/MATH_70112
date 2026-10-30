@@ -14,8 +14,11 @@ https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_2_Financial_Computing.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_2_Simulation.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_FunctionalProgramming.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_FunctionalProgramming_Assignment.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_ImportanceOfData.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_ImportanceOfData_Assignment.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_IntroToPandas.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_3_IntroToPandas_Assignment.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_5_IntroToPandasPart2.ipynb
 )
 
