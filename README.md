@@ -21,6 +21,7 @@ https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_4_IntroToPandasPart2.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_4_IntroToPandasPart2_Exercises.ipynb,
 https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_4_Pandas_Linear_Regression.ipynb,
-https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_5_ObjectOrientedProgramming.ipynb
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_5_ObjectOrientedProgramming.ipynb,
+https://colab.research.google.com/github/tdhadfield/MATH_70112/blob/main/Session_6_ObjectOrientedProgramming2.ipynb
 )
 
